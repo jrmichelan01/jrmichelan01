@@ -1,5 +1,6 @@
 # Olá, Sejam Bem Vindo ao meu GiHub
-🎓 Estudante de ADS  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🚀 Estudante de Análise de Dados, Excel, SQL, Power BI
 💻 Focado em Python e sistemas  
 🚀 Em busca de estágio  
 
