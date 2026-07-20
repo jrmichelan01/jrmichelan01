@@ -12,7 +12,7 @@
 
 <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/f6be4dfb-18e9-4063-b88b-ec195bce3076" /> "*Bradesco*" Dados Segurança BootCamp
 
-## Estudando ##
+## 💻Estudando ##
 
 - Unimar Universidade de Marília.
 - Cursando Universo BI.
